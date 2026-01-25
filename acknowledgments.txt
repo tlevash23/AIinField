@@ -1,0 +1,3 @@
+Acknowledgments
+
+Primarily used Class Videos to references code along with provided materials in git. I didn't work with anybody else. ChatGPT was used to help with quetsions 7 and 8 and for charting; also used to troubleshoot with multiindex and some functions. ChatGPT model was 5.2 with link https://chatgpt.com/c/69766810-0440-8328-82a9-23bae39db80f
