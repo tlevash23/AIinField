@@ -1,0 +1,1 @@
+Based on the histograms, I picked the UCB algorithm because I could see a heavily skewed right tail which indicated continuous rewards as opposed to binary. There is also mass at zero which would be contrary to Bernoulli assumptions. 
