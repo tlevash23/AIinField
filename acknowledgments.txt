@@ -1,3 +1,3 @@
 Acknowledgments
 
-Primarily used Class Videos to references code. No work was done with peers or other classmates. codes from, used ChatGPT model 5.2 for help
+Primarily used Class Videos to references code. No work was done with peers or other classmates. codes from,https://pandas.pydata.org/docs/reference/api/pandas.crosstab.html,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.reindex.html,https://numpy.org/doc/stable/reference/routines.linalg.html, https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html, https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html, https://github.com/kfoofw/bandit_simulations/blob/master/python/contextual_bandits/analysis/linUCB%20hybrid%20implementation%20and%20analysis.md, https://pandas.pydata.org/docs/user_guide/reshaping.html,  used ChatGPT model 5.2 for help with link https://chatgpt.com/c/699215d5-603c-8333-aa99-0c90b4a8ddb2
