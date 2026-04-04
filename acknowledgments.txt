@@ -1,3 +1,3 @@
 Acknowledgments
 
-Primarily used Class Videos to references code. No work was done with peers or other classmates. Code sourced or referenced from https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.HashingVectorizer.html, https://www.projectpro.io/recipes/explain-what-is-hashing-vectorizer, Used Hashingvectorizer, Knearest, numpy, and pandas for this as new imports, ChatGPT model 5.2 used for help with link https://chatgpt.com/c/69d01986-f644-8330-9cd8-e843a8b5c1a3 
+Primarily used Class Videos to references code. No work was done with peers or other classmates. Code sourced or referenced from https://github.com/bu-cds-omds/dx704-examples/blob/main/week11/video_developing_more_robust_prompts_with_incontext_learning.ipynb, Used OS when troubleshooting API Key, ChatGPT model 5.2 used for help with link https://chatgpt.com/c/69d1856d-0188-8333-9122-b4c021f85b3e
