@@ -1,0 +1,51 @@
+query_id	query	target_category
+1	Hi. Melissa came by and wrecked my roof. Can you take a look?	roofing
+2	"Hi there. This is Jack. I’m looking for someone to install a new sink faucet. Call me back, thanks."	plumbing
+3	Can you install an automated spotlight by my driveway?	electrical
+4	Pest control just cleared out a raccoon that tore up some shingles. Can you fix?	roofing
+5	Need toilet unclogged ASAP	plumbing
+6	My lights keep flickering.	electrical
+7	Do you install metal roofs?	roofing
+8	Can you fix a garbage disposal that keeps backing up?	plumbing
+9	Need to install 200 amp circuit to support electric water heater.	electrical
+10	What’s the cost of a single ply roof replacement?	roofing
+11	Can you replace a boiler?	plumbing
+12	Circuit breaker keeps popping.	electrical
+13	Can you estimate roof repair cost without site visit?	roofing
+14	My basement shower smells like sewage.	plumbing
+15	Ceiling fan install please.	electrical
+16	Is asphalt or metal cheaper?	roofing
+17	Can you replace pipes with lead sauter?	plumbing
+18	Kitchen breaker keeps flipping when I run the microwave.	electrical
+19	Can you clear a birds nest on my roof?	roofing
+20	My sink faucet handle keeps sticking.	plumbing
+21	Help me wire outside lights.	electrical
+22	Is a Spanish tile roof expensive?	roofing
+23	Need to install waterfall shower in new construction.	plumbing
+24	Replace stuck light switch.	electrical
+25	Can you check my roof before the hurricane?	roofing
+26	Can you install a bidet?	plumbing
+27	Can you install inset LEDs?	electrical
+28	Attic is leaking. Please check.	roofing
+29	Ceiling leaking under bathroom. Please check.	plumbing
+30	Can you wire new construction for Ethernet?	electrical
+31	Can you repair rubber roof?	roofing
+32	Need plumbing for new bathroom in addition.	plumbing
+33	Need outlet for bidet.	electrical
+34	Do metal roofs really last 30 years?	roofing
+35	My kitchen sink always has cloudy water.	plumbing
+36	Need GFCI outlet installed.	electrical
+37	Just got back from vacation and hurricane caused a lot of damage. Can you inspect?	roofing
+38	Basement flooded. Please come ASAP.	plumbing
+39	Outlet doesn’t work.	electrical
+40	Do you do insurance paperwork for roofs?	roofing
+41	Are copper pipes ok?	plumbing
+42	Can you check solar panel wiring?	electrical
+43	A tree fell on my roof. Can you patch?	roofing
+44	Shower water pressure is always week.	plumbing
+45	My garage door does not respond to remote. Can you check?	electrical
+46	Found wood rotting in attic. Do I really need to replace the whole roof?	roofing
+47	Can you install a gas hot water heater that can handle 4 showers?	plumbing
+48	Replace knob and tube.	electrical
+49	Had woodpeckers. Need inspection.	roofing
+50	Need estimate for new boiler by tomorrow.	plumbing
