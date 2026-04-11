@@ -1,2 +1,14 @@
-Decide if this home service request is electrical, plumbing, or roofing with one word.
+
+Home service requests should fall into three categories of classification:
+electrical has issues with breakers, wiring, outlets, lights, power
+plumbing has issues with pipes, toilets, sinks, water, leaks
+roofing has issues with roofs, rain leaks, shingles, ceilings, attic
+
+Please pick the best category based on the problem and not the keywords
+
+Water coming from the ceiling when it rains is roofing.
+Electric problems during showers are electrical.
+
+Please respond with only one word: electrical, plumbing, or roofing.
+
 Request: {query}
