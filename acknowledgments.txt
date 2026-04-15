@@ -1,3 +1,3 @@
 Acknowledgments
 
-Primarily used Class Videos to references code. No work was done with peers or other classmates. Code sourced or referenced from https://github.com/bu-cds-omds/dx704-examples/blob/main/week11/video_developing_more_robust_prompts_with_incontext_learning.ipynb, Used OS when troubleshooting API Key, ChatGPT model 5.2 used for help with link https://chatgpt.com/c/69d1856d-0188-8333-9122-b4c021f85b3e
+Primarily used Class Videos to references code. No work was done with peers or other classmates. Code sourced or referenced from https://github.com/bu-cds-omds/dx704-examples/blob/main/week12/video_implementing_text_classifiers_from_language_model_embeddings.ipynb, Used additional imports json, tqdm, ChatGPT model 5.2 used for help with link https://chatgpt.com/c/69dfcc21-05c0-83ea-82b7-f2fa531c1375
